@@ -1,5 +1,5 @@
 # RTU-Notes
-This is a Web Application for University students to share and gather best Study Material for Semester Exams. User can create an account to upload notes and User can also filter notes according to Topic, Branch, Semester and Subject.
+This is a Web Application for University students to share and gather best Study Material for Semester Exams. User can create an account to upload notes and User can also filter notes according to Topics, Branch, Semester and Subject.
 
 # Technologies Used:-
 1.) Node.js
