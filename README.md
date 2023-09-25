@@ -28,4 +28,4 @@ Home             |  Signup
 
 Profile             |  User Posts
 :-------------------------:|:-------------------------:
-![](https://github.com/Uditp11/RTU-Notes/blob/main/screenshots/profile.PNG)  |  ![](https://github.com/manishmotwani2002/RTU-Notes/blob/main/screenshots/profile%20posts.PNG)
+![](https://github.com/Uditp11/RTU-Notes/blob/main/screenshots/profile.PNG)  |  ![](https://github.com/Uditp11/RTU-Notes/blob/main/screenshots/profile%20posts.PNG)
