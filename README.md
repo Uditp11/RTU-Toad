@@ -23,7 +23,7 @@ This is a Web Application for University students to share and gather best Study
 
 Home             |  Signup
 :-------------------------:|:-------------------------:
-![](https://github.com/Uditp11/RTU-Notes/blob/main/screenshots/home%20page.PNG)  |  ![](https://github.com/manishmotwani2002/RTU-Notes/blob/main/screenshots/registerform.PNG)
+![](https://github.com/Uditp11/RTU-Notes/blob/main/screenshots/home%20page.PNG)  |  ![](https://github.com/Uditp11/RTU-Notes/blob/main/screenshots/registerform.PNG)
 
 
 Profile             |  User Posts
